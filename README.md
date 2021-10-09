@@ -1,14 +1,17 @@
 <h1 align="center">Neuromorphic Calculator</h1>
 
 <p align="center">
-<img src="PROJECT IMAGE" width="" height="">
+<img src="https://user-images.githubusercontent.com/63164037/136671999-6f66cab9-e5e8-437c-80f1-de486550e183.png">
 </p>
 
 ## 📜 Description:
-1 - 2 LINES ABOUT PROJECT
+This is an Flutter developed Calculator app with trending Neumorphic design. Everything is same as in an oridinary calculator. 
+
+Neumorphic design makes the application design minimalist and more attractive.
 
 ## 📽 Sample Demo:
-MP4 VIDEO
+https://user-images.githubusercontent.com/63164037/136672012-14204a91-3295-4ceb-a07c-b61abb84f8be.mov
+
 
 ## 🧪 Steps to Build locally:
 - Open Android Studio IDE or Visual Studio Code.
